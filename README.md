@@ -15,3 +15,8 @@ Name- WEB APPLICATION
 Name- REGISTRATION FORM 
 
 **live demo: [Click Here!](https://jeet00007.github.io/registration-form/)**
+
+## [TASK - 04](https://github.com/JEET00007/reactjs-calculator)
+Name- CALCULATOR
+
+**live demo: [Click Here!](https://jeet00007.github.io/reactjs-calculator/)**
